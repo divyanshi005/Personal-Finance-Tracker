@@ -13,11 +13,12 @@ Please go to the master branch to view the code
 
 ![bb8e555b594940f688498858bfefc0dc](https://github.com/user-attachments/assets/ea1740c2-7c9f-44a4-a93d-b8fb4580f894)
 
-# Expense overview page
+# Income overview page 
 
 ![22691fab87f6472cb76aede2d4b31f23](https://github.com/user-attachments/assets/a3f8edb4-4819-49a3-bfbf-65420245f17d)
 
-# Income overview page
+# Expense overview page
+
 
 ![0fb23b5abc884ba59ce9aecdf3c7e67e](https://github.com/user-attachments/assets/ff7dc0b6-89f5-4d6f-bf8a-fb0a62fd0b6b)
 
