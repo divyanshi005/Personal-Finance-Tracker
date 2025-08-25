@@ -1,6 +1,7 @@
 # Personal Finance Tracker: A MERN Stack project
 
-* Please go to the master branch to view the code *
+
+(Please go to the master branch to view the code )
 
 
    You can view the site [HERE](https://c8d4l5sp-5173.inc1.devtunnels.ms/login)
@@ -13,11 +14,17 @@ An easy-to-use Expense & Income Tracker built with the MERN stack, helping you s
 # 🚀 Features
 
 ✅ User Authentication – Secure login & signup using JWT
+
 ✅ Add Income & Expenses – Track multiple sources (salary, freelance, stocks, rent, groceries, etc.)
+
 ✅ Dashboard Overview – Get a quick glance at total balance, income, and expenses
+
 ✅ Charts & Visualizations – Clear graphs for better financial insights (last 30/60 days overview)
+
 ✅ Download Data – Export income & expenses for record-keeping
+
 ✅ Responsive UI – Clean and modern interface built with React
+
 ✅ Tested with Postman – Robust APIs verified and documented
 
 # 🛠️ Tech Stack
@@ -49,22 +56,22 @@ Clone the repo and install dependencies:
 
 Create a .env file in the server folder:
 
-                     PORT=5000
-                     MONGO_URI=your_mongodb_connection_string
-                     JWT_SECRET=your_jwt_secret
+                PORT=5000
+                MONGO_URI=your_mongodb_connection_string
+                JWT_SECRET=your_jwt_secret
 
 
 Run the project:
 
 Run backend:
                   
-                  cd server
-                  npm run dev
+                cd server
+                npm run dev
 
 Run frontend:
 
-             cd ../client
-             npm start
+                cd ../client
+                npm start
 
 # 📌 API Endpoints 
 Method	Endpoint	Description
