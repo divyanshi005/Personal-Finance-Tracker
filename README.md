@@ -1,12 +1,10 @@
 # Personal-Finance-Tracker
-![703a2fb3d8b0435bb441ec4f8e5dfa8a](https://github.com/user-attachments/assets/b80a498c-fdc9-43e0-ae76-6e7c813f2bf6)
 
-![bb8e555b594940f688498858bfefc0dc](https://github.com/user-attachments/assets/7c71ea62-7955-4783-bf87-069cc8350123)
+![WhatsApp Image 2025-08-25 at 21 28 33_c6ae3603](https://github.com/user-attachments/assets/970709ad-1a9c-4b27-8a39-b3c1f0bb60d7)
 
-![0fb23b5abc884ba59ce9aecdf3c7e67e](https://github.com/user-attachments/assets/4c646005-391a-451c-aaf6-a79e2eb7b2a0)
-![22691fab87f6472cb76aede2d4b31f23](https://github.com/user-attachments/assets/ed94933a-bbab-4923-937f-0ce258d326da)
-
-![a80e23ef47204b63b60df441c3d3f8b2](https://github.com/user-attachments/assets/097dee42-46ef-4b54-976b-3c05a1aad2d7)
-![2231d1a1ff7544d4bdcd4e157c643183](https://github.com/user-attachments/assets/1263307b-db10-4046-b5e1-22cf1b47c4ae)
-![703a2fb3d8b0435bb441ec4f8e5dfa8a](https://github.com/user-attachments/assets/b80a498c-fdc9-43e0-ae76-6e7c813f2bf6)
-
+![bb8e555b594940f688498858bfefc0dc](https://github.com/user-attachments/assets/ea1740c2-7c9f-44a4-a93d-b8fb4580f894)
+![22691fab87f6472cb76aede2d4b31f23](https://github.com/user-attachments/assets/a3f8edb4-4819-49a3-bfbf-65420245f17d)
+![0fb23b5abc884ba59ce9aecdf3c7e67e](https://github.com/user-attachments/assets/ff7dc0b6-89f5-4d6f-bf8a-fb0a62fd0b6b)
+![a80e23ef47204b63b60df441c3d3f8b2](https://github.com/user-attachments/assets/5bc426d7-2f00-447a-8656-cc7a0091b2c7)
+![2231d1a1ff7544d4bdcd4e157c643183](https://github.com/user-attachments/assets/efb42e05-f43d-467e-8fdc-0c0d107bcc79)
+![22691fab87f6472cb76aede2d4b31f23](https://github.com/user-attachments/assets/c25c8868-ba00-4647-8429-1bbecae80548)
