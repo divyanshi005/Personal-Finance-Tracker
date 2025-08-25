@@ -1,7 +1,7 @@
 # Personal Finance Tracker: A MERN Stack project
 
 
-(Please go to the master branch to view the code )
+(Please go to the master branch to view the code :) )
 
 
    You can view the site [HERE](https://c8d4l5sp-5173.inc1.devtunnels.ms/login)
@@ -88,23 +88,6 @@ GET	   /api/expense	Fetch all expenses
 
 POST	   /api/expense	Add expense
 
-# 🧑‍💻 Future Enhancements
-
-🔔 Expense alerts & budget goals
-
-📱 Mobile-friendly PWA support
-
-📊 Advanced analytics (monthly/yearly reports)
-
-🌍 Multi-currency support
-
-# 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
-# 📜 License
-
-This project is licensed under the MIT License – feel free to use, modify, and share!
    
 # Sample Screenshots:
 Login Page
@@ -131,3 +114,23 @@ Dashboard
 ![2231d1a1ff7544d4bdcd4e157c643183](https://github.com/user-attachments/assets/efb42e05-f43d-467e-8fdc-0c0d107bcc79)
 
 ![703a2fb3d8b0435bb441ec4f8e5dfa8a](https://github.com/user-attachments/assets/0818d6db-669f-4f8a-8952-8f638a718a89)
+
+
+
+# 🧑‍💻 Future Enhancements
+
+🔔 Expense alerts & budget goals
+
+📱 Mobile-friendly PWA support
+
+📊 Advanced analytics (monthly/yearly reports)
+
+🌍 Multi-currency support
+
+# 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+# 📜 License
+
+This project is licensed under the MIT License – feel free to use, modify, and share!
