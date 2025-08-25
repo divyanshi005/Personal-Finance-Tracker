@@ -75,12 +75,18 @@ Run frontend:
 
 # 📌 API Endpoints 
 Method	Endpoint	Description
-POST	/api/auth/register	Register new user
-POST	/api/auth/login	Login user
-GET	/api/income	Fetch all incomes
-POST	/api/income	Add income
-GET	/api/expense	Fetch all expenses
-POST	/api/expense	Add expense
+
+POST	   /api/auth/register	Register new user
+
+POST	   /api/auth/login	Login user
+
+GET	    /api/income	Fetch all incomes
+
+POST	    /api/income	Add income
+
+GET	   /api/expense	Fetch all expenses
+
+POST	   /api/expense	Add expense
 
 # 🧑‍💻 Future Enhancements
 
